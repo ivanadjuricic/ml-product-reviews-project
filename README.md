@@ -1,5 +1,13 @@
 # 🧠 Sentiment Analysis ML Project
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![joblib](https://img.shields.io/badge/joblib-FF6B35?style=for-the-badge&logo=python&logoColor=white)
+
 A complete machine learning pipeline for **sentiment analysis** of product reviews using Python and scikit-learn.
 
 This project was developed as part of a learning module, covering all typical phases of a machine learning workflow — from raw data to a ready-to-use trained model.
